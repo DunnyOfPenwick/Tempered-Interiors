@@ -1,0 +1,46 @@
+{
+    "ModTitle": "Tempered-Interiors",
+    "ModVersion": "0.82",
+    "ModAuthor": "DunnyOfPenwick",
+    "ContactInfo": "http://dfworkshop.net",
+    "DFUnity_Version": "0.14.4",
+    "ModDescription": "Modifies building interiors to match building quality.",
+    "GUID": "a1ec918d-fad6-4050-99ec-d07043a0308a",
+    "Files": [
+        "Assets/Game/Mods/Tempered-Interiors/Scripts/TemperedInteriorsMod.cs",
+        "Assets/Game/Mods/Tempered-Interiors/Scripts/Lighting.cs",
+        "Assets/Game/Mods/Tempered-Interiors/Scripts/Utility.cs",
+        "Assets/Game/Mods/Tempered-Interiors/Tempered-Interiors.dfmod.json",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/BedEndHi.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/BedEndLow.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/BedSideHi.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/BedSideLow.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/BedTopHi.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/BedTopLow.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/Chain.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/Cord.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/CarpetLow.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/CarpetEdgeLow1.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/CarpetEdgeLow2.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/TapestryLow.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/Stain.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/DoorHi.png",
+        "Assets/Game/Mods/Tempered-Interiors/Scripts/Filth.cs",
+        "Assets/Game/Mods/Tempered-Interiors/Scripts/Rats.cs",
+        "Assets/Game/Mods/Tempered-Interiors/Scripts/StaticBillboard.cs",
+        "Assets/Game/Mods/Tempered-Interiors/Scripts/Textures.cs",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/FoodBit.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/WardrobeFrontHi.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/WardrobeSideHi.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/WardrobeFrontEdgeHi.png",
+        "Assets/Game/Mods/Tempered-Interiors/Textures/WardrobeSideEdgeHi.png"
+    ],
+    "Dependencies": [
+        {
+            "Name": "dream - transparent windows",
+            "IsOptional": true,
+            "IsPeer": true,
+            "Version": "0.5.2"
+        }
+    ]
+}
